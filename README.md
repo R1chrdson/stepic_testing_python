@@ -26,4 +26,4 @@ pip install -r requirements.txt
 python lesson2_step3.py
 ```
 
-The script will open the [link](http://suninjuly.github.io/selects1.html), and sum up 2 numbers from interface, using selectors `#num1` and `#num2`. If you need, you can change the link in the [lesson2_step3.py](lesson2_step3.py#32)
+The script will open the [link](http://suninjuly.github.io/selects1.html), and sum up 2 numbers from interface, using selectors `#num1` and `#num2`. If you need, you can change the link in the [lesson2_step3.py](lesson2_step3.py#L32)
